@@ -43,4 +43,4 @@ setuptools
 ordered-set
 peft
 einops
-flashinfer-python~=0.2.0
+flashinfer-python==0.2.5
